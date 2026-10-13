@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-south-dakota-code",
-  "version": "0.1.0",
-  "description": "South Dakota Codified Laws — state statutes by citation and by topic.",
+  "version": "0.1.1",
+  "description": "South Dakota Codified Laws — state statutes by citation and by topic. Fleet #2748.",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b02a697de16e8fdb1968f531d21167f8c3dc83e5841fc77e8f89304cab4601aa",
-    "sourceCommit": "29efecb1e77577b1ce49e14f4fd7bbaee3e63885"
+    "sourceHash": "v1-3e031bc9cb42fe9d3327403a2251a0c6a76bb0275ed5642821a925ac767f87a2",
+    "sourceCommit": "3723e46c6d115bd4a1fd2175e6bf758555e7cb50"
   }
 }

@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/south-dakota-code",
   "title": "South Dakota Code",
-  "description": "South Dakota Codified Laws — state statutes by citation and by topic.",
-  "version": "0.1.0",
+  "description": "South Dakota Codified Laws — state statutes by citation and by topic. Fleet #2748.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/south-dakota-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-south-dakota-code",
