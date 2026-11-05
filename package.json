@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-south-dakota-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "South Dakota Codified Laws — state statutes by citation and by topic. Fleet #2748.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "south-dakota-code",
     "gatewaySlug": "south-dakota-code",
-    "sourceHash": "v1-12c04478020edaa2b4b8eec7218b027c9358e4fea96164a63caf2f00cbe774c8",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-55626eb092e3d0d40ae89814096f8497a4bc1e3a449e8f645b87c706c05a3905",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
